@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Abdul01-droid a second year student from the university of Dar es salaam at College of ICT pursuing Bsc in Electronics
+- --------------------
+- I am interested in Electronics circuit design ,Embedded System & Software designing, Artificial Intelligence, Networking and Software development
+- 🌱 I’m currently learning Web Application development with HTML,CSS,JavScript and Java
+- 💞️ I’m looking to collaborate on Java development, web development with (HTML,CSS, Java and JavaScript)
+- 📫 How to reach me 
+- Whatsapp +255 679 488 598
+- E-mail abdul01.j@gmail.com
