@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abdul01-droid a junior Electronics Engineer
 - --------------------
-- I am specialized in hardware design ,Embedded Systems and low level Programming 
-- 💞️ I’m looking forward to collaborate on Java and C projects
+- I am specialized in hardware design Engineering, in the field of Communication Engineering, Power Electronics, Control system Engineering,
+     Signal processing, Embedded Systems and low level Programming.
+- 💞️ I’m looking forward to collaborate on Java and Embedded C projects with ARM Cortex-M architcture
 - 📫 How to reach me 
 - Whatsapp +255745488595
 - E-mail abdul01.j@gmail.com
